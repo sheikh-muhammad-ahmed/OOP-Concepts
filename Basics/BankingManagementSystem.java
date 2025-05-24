@@ -1,4 +1,4 @@
-package Basics;
+
 public class BankingManagementSystem{
     String Name;
     int Pin;
