@@ -7,7 +7,8 @@ public class Main {
 //Accouunt1.withdrawl(1500);
 //Accouunt1.checkBalance();
 MovieTicketBookingSystem customer1 = new MovieTicketBookingSystem();
-customer1.Booking("Ahmed", 12, "hello", 3600);
+customer1.Booking("Ahmed", 4, "hello");
+customer1.totalPayment(4800);
 customer1.customerSlip();
     }
 }
